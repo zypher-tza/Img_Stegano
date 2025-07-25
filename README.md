@@ -3,8 +3,8 @@
 
 This is a screenshot of my app:
 
-![Screenshot](screenshot.png)
+![Screenshot](screenshort.png)
 
 Or resized:
 
-<img src="screenshot.png" alt="Screenshot" width="500">
+<img src="screenshort.png" alt="Screenshorrrrrrrt" width="500">
